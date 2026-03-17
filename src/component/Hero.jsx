@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 
-const roles = ['Full Stack Developer', 'Software Developer', 'React Developer', 'Backend Engineer'];
+const roles = ['Aspiring Full Stack Developer', 'Aspiring Software Developer', 'React Developer', 'Backend Engineer'];
 
 export default function Hero() {
   const [roleIdx, setRoleIdx] = useState(0);
@@ -97,7 +97,7 @@ export default function Hero() {
             opacity: visible ? 1 : 0, transform: visible ? 'translateY(0)' : 'translateY(20px)',
             transition: 'all 0.7s ease 0.5s',
           }}>
-            <strong>Full Stack Developer</strong> and B.Tech CSE student at Lovely Professional University with a strong focus on problem-solving, collaboration, and building meaningful digital solutions. I enjoy turning real-world challenges into reliable and user-focused applications through structured thinking and attention to detail. Known for writing clean, maintainable code and approaching projects with curiosity, adaptability, and a continuous learning mindset. I value teamwork, clear communication, and thoughtful design to create products that are both functional and impactful.
+            <strong>Aspiring Full Stack Developer</strong> and B.Tech CSE student at Lovely Professional University with a strong focus on problem-solving, collaboration, and building meaningful digital solutions. I enjoy turning real-world challenges into reliable and user-focused applications through structured thinking and attention to detail. Known for writing clean, maintainable code and approaching projects with curiosity, adaptability, and a continuous learning mindset. I value teamwork, clear communication, and thoughtful design to create products that are both functional and impactful.
           </p>
 
           <div style={{

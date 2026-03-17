@@ -39,7 +39,7 @@ export default function About() {
           {/* Bio */}
           <div className="fade-in delay-2">
             <p style={{ fontFamily: 'var(--font-body)', fontSize: 17, color: 'var(--gray-dark)', lineHeight: 1.8, marginBottom: 20 }}>
-              I'm a Computer Science student at <strong>Lovely Professional University</strong> (CGPA: 7.02), passionate about full-stack development. I love building products that are both functional and visually refined — from REST APIs and JWT auth to responsive React UIs.
+              I'm a Computer Science student at <strong>Lovely Professional University</strong> (CGPA: 7.02), passionate about <strong>Aspiring full-stack development</strong>. I love building products that are both functional and visually refined — from REST APIs and JWT auth to responsive React UIs.
             </p>
             <p style={{ fontFamily: 'var(--font-body)', fontSize: 16, color: 'var(--gray-mid)', lineHeight: 1.7 }}>
               Currently in my 3rd year, I'm actively working on real-world projects, participating in hackathons, and expanding my knowledge in DSA and cloud technologies.
