@@ -7,6 +7,7 @@ import Skills from './component/Skills';
 import Projects from './component/Projects';
 import Certifications from './component/Certifications';
 import Experience from './component/Experience';
+import Education from './component/Education';
 import Hackathons from './component/Hackathons';
 import { OpenSource, Research } from './component/Extras';
 import Contact from './component/Contact';
@@ -38,6 +39,7 @@ export default function App() {
       <Skills />
       <Projects />
       <Certifications />
+      <Education />
       <Experience />
       <Hackathons />
       <OpenSource />
